@@ -1,0 +1,12 @@
+# IDE or Editor
+/.idea
+/.vscode
+
+# Dependencies
+/node_modules
+
+# Production
+/dist
+
+# Misc
+.DS_Store
